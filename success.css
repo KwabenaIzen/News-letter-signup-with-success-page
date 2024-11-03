@@ -89,6 +89,7 @@ figure img {
   }
   figure img {
     width: 60px;
+padding:0;
   }
   .sucess-container {
     align-self: center;
